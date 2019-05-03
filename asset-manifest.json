@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pluralsite-authorquiz/static/css/main.acb72bac.chunk.css",
+    "main.js": "/pluralsite-authorquiz/static/js/main.55b94a37.chunk.js",
+    "main.js.map": "/pluralsite-authorquiz/static/js/main.55b94a37.chunk.js.map",
+    "runtime~main.js": "/pluralsite-authorquiz/static/js/runtime~main.ea07f541.js",
+    "runtime~main.js.map": "/pluralsite-authorquiz/static/js/runtime~main.ea07f541.js.map",
+    "static/js/2.2fc27334.chunk.js": "/pluralsite-authorquiz/static/js/2.2fc27334.chunk.js",
+    "static/js/2.2fc27334.chunk.js.map": "/pluralsite-authorquiz/static/js/2.2fc27334.chunk.js.map",
+    "index.html": "/pluralsite-authorquiz/index.html",
+    "precache-manifest.01fff45617ff18808fb650968b1d1523.js": "/pluralsite-authorquiz/precache-manifest.01fff45617ff18808fb650968b1d1523.js",
+    "service-worker.js": "/pluralsite-authorquiz/service-worker.js",
+    "static/css/main.acb72bac.chunk.css.map": "/pluralsite-authorquiz/static/css/main.acb72bac.chunk.css.map"
+  }
+}
