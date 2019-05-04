@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2ff9023b545f1e3a20a78ac21116e25a",
+    "revision": "f8279cdab4b63d62b23595059baadc2b",
     "url": "/pluralsite-authorquiz/index.html"
   },
   {
-    "revision": "26336cac674606a5208d",
+    "revision": "51bfebd93db355c0875c",
     "url": "/pluralsite-authorquiz/static/css/main.acb72bac.chunk.css"
   },
   {
-    "revision": "8489c8d50e35251b7360",
-    "url": "/pluralsite-authorquiz/static/js/2.2fc27334.chunk.js"
+    "revision": "d610e72bc851f5a0b1fe",
+    "url": "/pluralsite-authorquiz/static/js/2.f67d7da5.chunk.js"
   },
   {
-    "revision": "26336cac674606a5208d",
-    "url": "/pluralsite-authorquiz/static/js/main.55b94a37.chunk.js"
+    "revision": "51bfebd93db355c0875c",
+    "url": "/pluralsite-authorquiz/static/js/main.ec4936e6.chunk.js"
   },
   {
     "revision": "4bf60edcf2291f121d49",

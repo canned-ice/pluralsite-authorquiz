@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/pluralsite-authorquiz/precache-manifest.01fff45617ff18808fb650968b1d1523.js"
+  "/pluralsite-authorquiz/precache-manifest.4739c07588823a94b2f4cc2236b0bf93.js"
 );
 
 self.addEventListener('message', (event) => {
